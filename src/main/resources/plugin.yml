@@ -5,6 +5,7 @@ author: Cmaaxx
 authors: [CodedRed]
 version: 1.4.5
 softdepend: [PlaceholdersAPI, PlaceholderAPI]
+api-version: 1.13
 
 commands:
   playtime:
